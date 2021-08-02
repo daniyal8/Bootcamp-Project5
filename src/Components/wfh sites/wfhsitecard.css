@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+.wsc-heading {
+    font-family: 'Staatliches', cursive;
+    font-size: 4vw;
+    color: navy;
+    text-align: center;
+}
+.cards {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,11 @@
+.slider-par {
+    width: 40.26vw;
+    height:  32.94vw;
+}
+.svg {
+    width: 40.26vw;
+    height: 32.94vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
